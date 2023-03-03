@@ -3,11 +3,5 @@
   "version": "1.0.0",
   "workspaces": [
     "./samples/*"
-  ],
-  "dependencies": {
-    "ace-code": "mkslanc/ace#demo_resolver"
-  },
-  "devDependencies": {
-    "process": "^0.11.10"
-  }
+  ]
 }
